@@ -1,0 +1,19 @@
+{
+  "name": "react-tools",
+  "version": "0.1.0",
+  "description": "egghead.io react tools course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "jest",
+    "eslint",
+    "prettier",
+    "githooks"
+  ],
+  "author": "Liana Mikulin",
+  "license": "ISC"
+}
